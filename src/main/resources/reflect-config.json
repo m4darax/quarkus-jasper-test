@@ -1,0 +1,60 @@
+[
+  {
+    "name" : "net.sf.jasperreports.engine.export.JRPdfExporter",
+    "methods" : [
+      { "name" : "exportImage" }
+    ]
+  },
+  {
+    "name" : "net.sf.jasperreports.web.util.WebResourceHandlersExtensionRegistryFactory",
+    "methods" : [
+      { "name" : "getExtensions", "parameterTypes" : [] }
+    ]
+  },
+  {
+    "name": "net.sf.jasperreports.renderers.WrappingSvgDataToGraphics2DRenderer",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": ["net.sf.jasperreports.renderers.DataRenderable"]
+      }
+    ]
+  },
+  {
+    "name": "net.sf.jasperreports.web.util.WebResourceHandlersExtensionRegistryFactory$1.getExtensions",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "net.sf.jasperreports.engine.DefaultJasperReportsContext.getExtensions",
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "net.sf.jasperreports.engine.util.MessageUtil.getMessageProvider",
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "net.sf.jasperreports.engine.JRRuntimeException.resolveMessage",
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "net.sf.jasperreports.engine.JRRuntimeException.getMessage",
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ext.OptionalHandlerFactory.instantiate",
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ext.OptionalHandlerFactory.findSerializer",
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  }
+]
